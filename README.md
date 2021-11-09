@@ -5,3 +5,6 @@ Best regards,
 Arno and Alex.
 Check out  my friend's repository too.
 https://github.com/AlMan01
+
+# Requirements
+Basic C, knowing the difference between an source files, and header files. Technique about char,string. Knowledge about processes and system calls.
